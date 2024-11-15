@@ -1,0 +1,8 @@
+streamlit          # Replace with latest Streamlit version if needed
+yfinance           # Library for fetching stock data from Yahoo Finance
+tensorflow         # Deep learning library for building the GRU model
+pandas              # Data manipulation and analysis
+numpy              # Numerical computing
+scikit-learn        # For MinMaxScaler used in data preprocessing
+matplotlib          # Optional, for plotting if needed
+plotly
